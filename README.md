@@ -10,3 +10,5 @@
 - [spring5教程](https://github.com/ZGG2016/spring5-tutorial-atguigu)
 
 - [springMVC教程](https://github.com/ZGG2016/springmvc-tutorial-atguigu)
+
+- [mybatis教程](https://github.com/ZGG2016/mybatis-tutorial-atguigu)

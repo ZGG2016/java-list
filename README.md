@@ -3,9 +3,9 @@
 
 - [java基础教程](https://github.com/ZGG2016/basic-java-tutorial)
 
-- [jsp教程](https://github.com/ZGG2016/jspcode_hanshunping)
-
 - [servlet教程](https://github.com/ZGG2016/servletcode_hanshunping)
+
+- [jsp教程](https://github.com/ZGG2016/jspcode_hanshunping)
 
 - [spring5教程](https://github.com/ZGG2016/spring5-tutorial-atguigu)
 

@@ -14,3 +14,5 @@
 - [mybatis教程](https://github.com/ZGG2016/mybatis-tutorial-atguigu)
 
 - [mybatis-plus教程](https://github.com/ZGG2016/mybatis-plus-tutorial-atguigu)
+
+- [springboot2教程](https://github.com/ZGG2016/springboot2-tutorial-atguigu)
